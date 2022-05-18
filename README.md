@@ -13,7 +13,6 @@ SO THAT I don't have to come up with a recipe myself
     Use at least two server-side APIs.
 
     Does not use alerts, confirms, or prompts (use modals).
-<<<<<<< HEAD
 
     Use client-side storage to store persistent data.
 
@@ -26,7 +25,10 @@ SO THAT I don't have to come up with a recipe myself
     Have a quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
 
 # Links
-https://github.com/TristinNguyen/Whats-for-Dinner
-https://tristinnguyen.github.io/Whats-for-Dinner/
+    https://github.com/TristinNguyen/Whats-for-Dinner
+    
+    https://tristinnguyen.github.io/Whats-for-Dinner/
 
 # Screenshot 
+
+![Example of Recipe Search](./assets/images/Capture.PNG)
